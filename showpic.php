@@ -1,11 +1,5 @@
 <?php
 
-/*
- *  Copyright (c) 2012. marsGoo. All Rights Reserved. 
- *  Development under the code of marsGoo Development.
-  Team Leader: Hamza Waqas
- */
-
 $use_resampling = true;
 
 //
